@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <required-managed-device package="jp.softbank.mb.plusmessage"/>
+    <disallowed-managed-device package="com.google.android.apps.messaging"/>
+</config>

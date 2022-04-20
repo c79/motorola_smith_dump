@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <privapp-permissions package="jp.softbank.mb.parentalcontrols">
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"   />
+        <permission name="android.permission.REAL_GET_TASKS"   />
+        <permission name="android.permission.READ_LOGS"   />
+        <permission name="android.permission.PACKAGE_USAGE_STATS"   />
+        <permission name="android.permission.MANAGE_USERS"   />
+        <permission name="android.permission.START_ACTIVITIES_FROM_BACKGROUND"   />
+        <permission name="android.permission.STOP_APP_SWITCHES"   />
+        <permission name="android.permission.MODIFY_PHONE_STATE"   />
+        <permission name="android.permission.CONTROL_LOCATION_UPDATES"   />
+    </privapp-permissions>
+</permissions>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <privapp-permissions package="jp.softbank.mb.ichinaviclt">
+        <permission name="android.permission.WRITE_SECURE_SETTINGS" />
+        <permission name="android.permission.WRITE_SETTINGS" />
+        <permission name="android.permission.SYSTEM_ALERT_WINDOW" />
+    </privapp-permissions>
+</permissions>

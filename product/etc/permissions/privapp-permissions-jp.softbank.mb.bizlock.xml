@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <privapp-permissions package="jp.softbank.mb.bizlock">
+        <permission name="android.permission.START_ACTIVITIES_FROM_BACKGROUND"   />
+        <permission name="android.permission.RESET_PASSWORD"   />
+    </privapp-permissions>
+</permissions>
